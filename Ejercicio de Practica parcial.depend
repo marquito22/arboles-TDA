@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1666138070 source:c:\users\tamara\desktop\marco\ejercicio de practica parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arboles.h"
+
+1666135465 c:\users\tamara\desktop\marco\ejercicio de practica parcial\arboles.h
+
+1666137838 source:c:\users\tamara\desktop\marco\ejercicio de practica parcial\arboles.c
+	<stdio.h>
+	<stdlib.h>
+	"arboles.h"
+	<string.h>
+
